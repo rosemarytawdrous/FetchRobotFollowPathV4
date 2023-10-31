@@ -1,0 +1,8 @@
+prefix=/home/elijah/fetchPathFollow_ws/devel
+
+Name: fetch_robot_path_follow
+Description: Description of fetch_robot_path_follow
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/elijah/fetchPathFollow_ws/devel
+
+Name: my_rospy_package
+Description: Description of my_rospy_package
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
